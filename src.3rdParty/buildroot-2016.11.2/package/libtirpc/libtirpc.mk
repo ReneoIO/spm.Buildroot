@@ -16,6 +16,6 @@ LIBTIRPC_AUTORECONF = YES
 # getrpcby{number,name} are only provided if 'GQ' is defined
 LIBTIRPC_CONF_ENV = CFLAGS="$(TARGET_CFLAGS) -DGQ"
 
-LIBTIRPC_CONF_OPTS = --disable-gssapi
+LIBTIRPC_CONF_OPTS = --enable-static --disable-gssapi
 
 $(eval $(autotools-package))

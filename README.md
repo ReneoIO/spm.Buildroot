@@ -1,2 +1,2 @@
 # spm.Buildroot
-Build environment for SysOps GNU/Linux kernels
+Build environment for various flavors of SysOps GNU/Linux kernels

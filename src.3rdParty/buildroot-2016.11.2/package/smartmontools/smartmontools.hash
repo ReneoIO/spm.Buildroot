@@ -1,3 +1,6 @@
 # From http://sourceforge.net/projects/smartmontools/files/smartmontools/6.5/
-md5	093aeec3f8f39fa9a37593c4012d3156	smartmontools-6.5.tar.gz
-sha1	7e788b429534a4ae627858fbcc826b93402cee7e	smartmontools-6.5.tar.gz
+md5	cb678aeeaf5f325aa506625607a83eea	smartmontools-45806931585758154b5bba37b62a6cfd0359c090.tar.gz
+sha1	e72d1c633df93dad0be60ac738c63d8248e8da01	smartmontools-45806931585758154b5bba37b62a6cfd0359c090.tar.gz
+# From https://github.com/ReneoIO/3rdParty.smartmontools
+#      The subfolder 'smartmontools' is extracted and saved
+#      with hash of checkin included in the name (-45... below).
