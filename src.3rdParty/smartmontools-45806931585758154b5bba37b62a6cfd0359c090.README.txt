@@ -1,0 +1,7 @@
+To generate .tar.gz for buildroot:
+
+   wget https://github.com/ReneoIO/3rdParty.smartmontools/archive/master.zip
+   unzip master.zip
+   cd ./3rdParty.smartmontools/smartmontools
+   ./autogen.sh
+   tar cfz ../smartmontools-<GIT-Checkin-Hash>.tar.gz
